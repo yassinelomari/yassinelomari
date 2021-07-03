@@ -1,10 +1,20 @@
-### Hi there 👋
-
+### Hi there 👋, Yassin ELOMARI
+#### software developer
 I'm Yassin from Morocco, and I do content on Development. I really enjoy learning languages and frameworks like Spring, Angular and software development in general.
 
-- 📫 How to reach me: gmail: yassinelomari95@gmail.com, Linkedin: https://www.linkedin.com/in/yassin-elomari-46077114b/
+Skills: Spring / Android / .Net core / Angular
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinelomari)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on End of year project. 
+- 🌱 I’m currently learning Spring boot and spring cloud 
+- 📫 How to reach me: Gmail: yassinelomari95@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yassinelomari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yassin-elomari-46077114b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9660594)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinelomari)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinelomari&show_icons=true&count_private=true)  
+
 
 <!--
 **yassinelomari/yassinelomari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

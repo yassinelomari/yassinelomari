@@ -15,6 +15,7 @@ Skills: Spring / Android / .Net core / Angular
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinelomari&show_icons=true&count_private=true)  
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinelomari&" alt="yassinelomari" /></p>
 
 <!--
 **yassinelomari/yassinelomari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

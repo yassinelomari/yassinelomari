@@ -11,7 +11,8 @@ I'm Yassin from Morocco, and I do content on Development. I really enjoy learnin
 
 
 
-# Linkedin : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yassin-elomari-46077114b/) 
+# Linkedin : [<img src="https://www.citypng.com/photo/12384/hd-linkedin-official-logo-transparent-background"  alt='linkedin' height='40'>](https://www.linkedin.com/in/yassin-elomari-46077114b/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yassin-elomari-46077114b/) 
 # Stackoverflow : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9660594) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinelomari)](https://github.com/anuraghazra/github-readme-stats)

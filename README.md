@@ -2,8 +2,6 @@
 #### software developer
 I'm Yassin from Morocco, and I do content on Development. I really enjoy learning languages and frameworks like Spring, Angular and software development in general.
 
-- 🔭 I’m currently working on End of year project. 
-- 🌱 I’m currently learning Spring boot and spring cloud 
 - 📫 How to reach me: Gmail: yassinelomari95@gmail.com 
 
 ### Skills :
